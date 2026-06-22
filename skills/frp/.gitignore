@@ -1,5 +1,0 @@
-# Test artifacts — not part of the skill
-frpc-test.toml
-frpc-test-multi.toml
-frpc-test-stcp-visitor.toml
-frpc-test*.log
